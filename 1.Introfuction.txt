@@ -1,0 +1,6 @@
+RxJs -Reactive Extensions For Javascript 
+ - Reactive Programming
+ - Asynchronous Programming Paradigm
+ - Observer Pattern - 
+ - Obervable - that can be observed
+ -
